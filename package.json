@@ -1,0 +1,22 @@
+{
+	"name": "gweepcreative",
+	"version": "1.0.0",
+	"description": "Gweep Creative Gelişmiş Profil Botu",
+	"main": "app.js",
+	"scripts": {
+	  "start": "nodemon app.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@discordjs/rest": "^0.3.0",
+		"axios": "^0.25.0",
+		"discord-api-types": "^0.26.1",
+		"discord.js": "^13.6.0"
+	},
+	"engines": {
+	  "node": "17.x",
+	  "npm": "7.x"
+	}
+  }
